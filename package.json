@@ -1,0 +1,1 @@
+{"name":"notes_realtime","scripts":{"start":"app.js"},"version":"0.0.0","engines":{"node":"0.8.x"},"subdomain":"luizvarela","dependencies":{"socket.io":"0.9.x","express":"3.1.x"}}
